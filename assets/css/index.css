@@ -1,0 +1,75 @@
+ul li{
+	list-style: none;
+}
+.intro h1{
+	font-family:cursive;
+}
+.navbar-brand{
+	font-family:cursive!important;
+}
+.tm{
+	width: 360px;
+	height: 225px;
+}
+.navbar-nav>li>a{
+	font-family:"微软雅黑"!important;
+}
+
+.pfblock-subtitle h3{
+	font-size: 16px;
+	font-family: "微软雅黑";
+	text-transform:lowercase;
+}
+.yuan1{
+	width: 190px;
+	height: 190px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 190px;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	border: 10px solid #ffc000;
+}
+.yuan2{
+	width: 190px;
+	height: 190px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 190px;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	border: 10px solid #a5a5a5;
+}
+.yuan3{
+	width: 190px;
+	height: 190px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 190px;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	border: 10px solid #ed7d31;
+}
+.yuan4{
+	width: 190px;
+	height: 190px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 190px;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	border: 10px solid #5b9bd5;
+}
+.iconbox{
+	background:#e6e0e0;
+}
+.yhw{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 7px solid #a5a5a5;
+}
